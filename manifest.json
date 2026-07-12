@@ -1,6 +1,6 @@
 {
-  "version": "0.3.2",
-  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.3.2.zip",
-  "notes": "Stress-hardening: fixes offline multi-device sync deadlocks, duplicate-tap payments, money guards, restore safety. Applies on next launch.",
-  "publishedAt": "2026-07-12T04:05:36.133Z"
+  "version": "0.3.3",
+  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.3.3.zip",
+  "notes": "Faster app start, payout ledger, simpler labels (Boli/Baaki/chits), Home improvements.",
+  "publishedAt": "2026-07-12T04:47:26.335Z"
 }
