@@ -1,5 +1,6 @@
 {
-  "version": "0.3.0",
-  "bundleUrl": null,
-  "notes": "baseline - ships inside the v0.3.0 APK, no OTA bundle yet"
+  "version": "0.3.2",
+  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.3.2.zip",
+  "notes": "Stress-hardening: fixes offline multi-device sync deadlocks, duplicate-tap payments, money guards, restore safety. Applies on next launch.",
+  "publishedAt": "2026-07-12T04:05:36.133Z"
 }
