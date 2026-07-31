@@ -1,6 +1,6 @@
 {
-  "version": "0.3.5",
-  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.3.5.zip",
-  "notes": "New look, and online backup turned off while it is rebuilt. Your records stay on your phone.",
-  "publishedAt": "2026-07-31T21:19:15.772Z"
+  "version": "0.4.0",
+  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.4.0.zip",
+  "notes": "Cloud sync is back — safer. Link phones with a short code; the book stays backed up online.",
+  "publishedAt": "2026-07-31T22:20:59.993Z"
 }
