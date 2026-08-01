@@ -1,6 +1,6 @@
 {
-  "version": "0.4.5",
-  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.4.5.zip",
-  "notes": "Save button is reachable again on payment and round sheets.",
-  "publishedAt": "2026-08-01T22:46:10.370Z"
+  "version": "0.4.6",
+  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.4.6.zip",
+  "notes": "Correct amounts owed, keyboard and Save fixes, backup warning.",
+  "publishedAt": "2026-08-01T23:23:31.837Z"
 }
