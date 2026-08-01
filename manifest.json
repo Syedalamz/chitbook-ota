@@ -1,6 +1,6 @@
 {
-  "version": "0.4.3",
-  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.4.3.zip",
-  "notes": "Faster linking.",
-  "publishedAt": "2026-08-01T18:45:27.134Z"
+  "version": "0.4.4",
+  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.4.4.zip",
+  "notes": "Keyboard fix — the screen no longer freezes half-open while typing.",
+  "publishedAt": "2026-08-01T22:36:03.048Z"
 }
