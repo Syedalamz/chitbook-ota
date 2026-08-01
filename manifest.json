@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
-  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.4.0.zip",
-  "notes": "Cloud sync is back — safer. Link phones with a short code; the book stays backed up online.",
-  "publishedAt": "2026-07-31T22:20:59.993Z"
+  "version": "0.4.2",
+  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.4.2.zip",
+  "notes": "Linking is now automatic — when Sy points the book at this phone, just tap Load the book.",
+  "publishedAt": "2026-08-01T18:32:57.706Z"
 }
