@@ -1,6 +1,6 @@
 {
-  "version": "0.4.2",
-  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.4.2.zip",
-  "notes": "Linking is now automatic — when Sy points the book at this phone, just tap Load the book.",
-  "publishedAt": "2026-08-01T18:32:57.706Z"
+  "version": "0.4.3",
+  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.4.3.zip",
+  "notes": "Faster linking.",
+  "publishedAt": "2026-08-01T18:45:27.134Z"
 }
