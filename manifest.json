@@ -1,6 +1,6 @@
 {
-  "version": "0.4.7",
-  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.4.7.zip",
-  "notes": "Names fit, dialogs fit, agent visible.",
-  "publishedAt": "2026-08-01T23:30:00.010Z"
+  "version": "0.4.8",
+  "bundleUrl": "https://raw.githubusercontent.com/Syedalamz/chitbook-ota/main/bundles/0.4.8.zip",
+  "notes": "Restore now sticks, safer amounts, undo for mistaps.",
+  "publishedAt": "2026-08-02T03:23:32.533Z"
 }
